@@ -68,3 +68,4 @@ bot.on("message", (message) => {
             });
     }
 });
+client.user.setGame('Minecraft')
