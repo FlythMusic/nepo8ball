@@ -66,6 +66,6 @@ bot.on("message", (message) => {
                 console.log(o_O);
                 message.channel.send({ embed: embedError })
             });
-        bot.user.setActivity('Discord')
+        bot.user.setActivity('Discord | Running in 1 server.')
     }
 });
