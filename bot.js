@@ -4,7 +4,7 @@ let axios = require("axios");
 
 
 const required = {
-    prefix: "8b!",
+    prefix: "%",
     API: "https://yesno.wtf/api",
     embedColor: {
         yes: "#66bb6a",
@@ -16,7 +16,7 @@ const required = {
         no: "The 8Ball feels negative about this. 🚫",
         maybe: "The 8Ball doesn't know how to feel about this. 🤷"
     },
-    token: "hello"
+    token: "NTU2NTg2NDUxODUzMjQ2NDcx.D275lg.9rwXmhHdHtJfJ6kvjA6llbDw9kA"
 };
 
 const { prefix, token, API, embedColor, answers } = required;
