@@ -66,6 +66,6 @@ bot.on("message", (message) => {
                 console.log(o_O);
                 message.channel.send({ embed: embedError })
             });
-        bot.user.setActivity('Rexor's Discord')
+        bot.user.setActivity('Discord')
     }
 });
