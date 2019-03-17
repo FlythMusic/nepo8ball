@@ -4,7 +4,7 @@ let axios = require("axios");
 
 
 const required = {
-    prefix: "%",
+    prefix: "%8ball",
     API: "https://yesno.wtf/api",
     embedColor: {
         yes: "#66bb6a",
