@@ -66,6 +66,6 @@ bot.on("message", (message) => {
                 console.log(o_O);
                 message.channel.send({ embed: embedError })
             });
-        bot.user.setActivity('8 Ball | Running in 1 server.')
+        bot.user.setActivity('8 Ball')
     }
 });
