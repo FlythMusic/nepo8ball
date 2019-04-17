@@ -12,8 +12,8 @@ const required = {
         maybe: "#26c6da"
     },
     answers: {
-        yes: "The 8Ball feels positive about this. ✅",
-        no: "The 8Ball feels negative about this. 🚫",
+        yes: "The 8Ball is positive about this. ✅",
+        no: "The 8Ball is negative about this. 🚫",
         maybe: "The 8Ball doesn't know how to feel about this. 🤷"
     },
     token: "NTU2NTg2NDUxODUzMjQ2NDcx.D275lg.9rwXmhHdHtJfJ6kvjA6llbDw9kA"
